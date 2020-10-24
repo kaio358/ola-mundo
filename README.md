@@ -1,1 +1,2 @@
-ola mundo
+olá, mundo!
+abrindo novos horizontes 
